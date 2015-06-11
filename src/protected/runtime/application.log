@@ -1,0 +1,1685 @@
+2015/01/29 22:22:41 [error] [php] Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:22:42 [error] [php] Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:22:54 [error] [php] Undefined variable: HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:22:55 [error] [php] Undefined variable: HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:23:05 [error] [php] Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:23:05 [error] [php] Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:26:47 [error] [php] Undefined variable: HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:27:32 [error] [php] Undefined variable: HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:27:55 [error] [php] Undefined variable: _HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:27:56 [error] [php] Undefined variable: _HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:27:56 [error] [php] Undefined variable: _HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 22:27:57 [error] [php] Undefined variable: _HTTP_SERVER_VARS (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/index
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (24)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/01/29 23:31:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index
+---
+2015/01/29 23:31:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index
+---
+2015/01/29 23:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index
+---
+2015/01/29 23:32:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=site/index
+HTTP_REFERER=http://tucao.com/index
+---
+2015/01/29 23:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=item/create
+HTTP_REFERER=http://tucao.com/index?r=site/index
+---
+2015/01/29 23:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=site/index
+HTTP_REFERER=http://tucao.com/index?r=item/create
+---
+2015/01/29 23:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=site/index
+HTTP_REFERER=http://tucao.com/index?r=site/index
+---
+2015/01/29 23:33:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=item/create
+HTTP_REFERER=http://tucao.com/index?r=site/index
+---
+2015/01/29 23:33:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=user/center
+HTTP_REFERER=http://tucao.com/index?r=item/create
+---
+2015/01/29 23:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=user/center
+---
+2015/01/29 23:33:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('index')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index?r=user/center
+---
+2015/02/02 01:14:10 [error] [php] date() expects parameter 2 to be long, string given (/Users/tsunami/Sites/tucao-hot/src/protected/views/site/index.php:38)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(869): SiteController->renderFile()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#3 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(36): SiteController->render()
+#4 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#7 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#8 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#9 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/site/index.php (38)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (36)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/02 16:24:50 [error] [php] Undefined index: id (/Users/tsunami/Sites/tucao-hot/src/protected/views/site/index.php:48)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(869): SiteController->renderFile()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(45): SiteController->render()
+#3 unknown(0): SiteController->actionIndex()
+#4 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#8 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#9 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#10 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/site/index.php (48)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (45)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/02 16:50:00 [error] [php] Undefined offset: -30 (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:41)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#4 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/?id=-1
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (41)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/02 16:53:25 [error] [php] Undefined offset: 97 (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:42)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#4 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/?id=7
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (42)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/02 16:53:49 [error] [php] Undefined offset: 97 (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:42)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#4 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/?id=7
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (42)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/02 16:56:29 [error] [php] Undefined offset: 97 (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:42)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#4 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/?id=7
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (42)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/03 01:47:14 [error] [exception.CException] exception 'CException' with message 'The URL pattern "?r=<controller:\w+>/<action:\w+>&<id:\d+>" for route "<controller>/<action>" is not a valid regular expression.' in /Users/tsunami/Sites/yii/framework/web/CUrlManager.php:701
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(270): CUrlRule->__construct('<controller>/<a...', '?r=<controller:...')
+#1 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(226): CUrlManager->createUrlRule('<controller>/<a...', '?r=<controller:...')
+#2 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(206): CUrlManager->processRules()
+#3 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CUrlManager->init()
+#4 /Users/tsunami/Sites/yii/framework/base/CApplication.php(522): CModule->getComponent('urlManager')
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(140): CApplication->getUrlManager()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#8 {main}
+REQUEST_URI=/?r=item/create
+HTTP_REFERER=http://tucao.com/?r=item/create
+---
+2015/02/03 01:48:42 [error] [exception.CException] exception 'CException' with message 'The URL pattern "?r=<controller:\w+>/<action:\w+>&<id:\d+>" for route "<controller>/<action>" is not a valid regular expression.' in /Users/tsunami/Sites/yii/framework/web/CUrlManager.php:701
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(270): CUrlRule->__construct('<controller>/<a...', '?r=<controller:...')
+#1 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(226): CUrlManager->createUrlRule('<controller>/<a...', '?r=<controller:...')
+#2 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(206): CUrlManager->processRules()
+#3 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CUrlManager->init()
+#4 /Users/tsunami/Sites/yii/framework/base/CApplication.php(522): CModule->getComponent('urlManager')
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(140): CApplication->getUrlManager()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php?r=item/create
+---
+2015/02/03 01:48:44 [error] [exception.CException] exception 'CException' with message 'The URL pattern "?r=<controller:\w+>/<action:\w+>&<id:\d+>" for route "<controller>/<action>" is not a valid regular expression.' in /Users/tsunami/Sites/yii/framework/web/CUrlManager.php:701
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(270): CUrlRule->__construct('<controller>/<a...', '?r=<controller:...')
+#1 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(226): CUrlManager->createUrlRule('<controller>/<a...', '?r=<controller:...')
+#2 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(206): CUrlManager->processRules()
+#3 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CUrlManager->init()
+#4 /Users/tsunami/Sites/yii/framework/base/CApplication.php(522): CModule->getComponent('urlManager')
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(140): CApplication->getUrlManager()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php?r=item/create
+---
+2015/02/03 01:48:49 [error] [exception.CException] exception 'CException' with message 'The URL pattern "?r=<controller:\w+>/<action:\w+>&<id:\d+>" for route "<controller>/<action>" is not a valid regular expression.' in /Users/tsunami/Sites/yii/framework/web/CUrlManager.php:701
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(270): CUrlRule->__construct('<controller>/<a...', '?r=<controller:...')
+#1 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(226): CUrlManager->createUrlRule('<controller>/<a...', '?r=<controller:...')
+#2 /Users/tsunami/Sites/yii/framework/web/CUrlManager.php(206): CUrlManager->processRules()
+#3 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CUrlManager->init()
+#4 /Users/tsunami/Sites/yii/framework/base/CApplication.php(522): CModule->getComponent('urlManager')
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(140): CApplication->getUrlManager()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php
+---
+2015/02/03 01:50:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tem/create".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tem/create')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/tem/create
+---
+2015/02/03 01:50:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tem/create".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tem/create')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/tem/create
+---
+2015/02/03 01:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tem/create".' in /Users/tsunami/Sites/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tem/create')
+#1 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/tem/create
+---
+2015/02/03 02:29:02 [error] [php] Use of undefined constant site - assumed 'site' (/Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php:56)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(784): SiteController->renderFile()
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(54): SiteController->render()
+#2 unknown(0): SiteController->actionIndex()
+#3 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#7 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#8 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#9 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/views/layouts/main.php (56)
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (54)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (14)
+2015/02/03 02:35:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/login
+---
+2015/02/03 02:35:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 02:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 02:38:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index.php/site/index
+---
+2015/02/03 03:10:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in /Users/tsunami/Sites/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/CController.php(270): CController->missingAction('index.php')
+#1 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('index.php')
+#2 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.php/...')
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.php/site/index
+HTTP_REFERER=http://tucao.com/index.php/site/index
+---
+2015/02/03 12:31:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/02/03 12:31:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#20 {main}
+REQUEST_URI=/?r=site/index
+---
+2015/02/03 12:31:22 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(14): CApplication->run()
+#20 {main}
+REQUEST_URI=/?r=gii
+---
+2015/02/04 17:55:25 [error] [php] Array to string conversion (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:57)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#4 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (57)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:03:29 [error] [php] include(CJSION.php): failed to open stream: No such file or directory (/Users/tsunami/Sites/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(57): spl_autoload_call()
+#1 unknown(0): SiteController->actionIndex()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (57)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:08:35 [error] [php] include(CJON.php): failed to open stream: No such file or directory (/Users/tsunami/Sites/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(57): spl_autoload_call()
+#1 unknown(0): SiteController->actionIndex()
+#2 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (57)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:08:43 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:08:44 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:09:22 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:09:58 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:09:59 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:40 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:41 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:42 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:42 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:43 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:43 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/04 18:12:43 [error] [php] json_encode() expects parameter 2 to be long, array given (/Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php:58)
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Users/tsunami/Sites/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Users/tsunami/Sites/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CWebApplication->run()
+REQUEST_URI=/
+in /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php (58)
+in /Users/tsunami/Sites/tucao-hot/src/index.php (19)
+2015/02/05 23:34:05 [error] [exception.CException] exception 'CException' with message 'Property "Item.hidden" is not defined.' in /Users/tsunami/Sites/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(161): CComponent->__set('hidden', '')
+#1 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(51): CActiveRecord->__set('hidden', '')
+#2 [internal function]: SiteController->actionIndex(0)
+#3 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#4 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#5 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#7 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#9 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#10 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#12 {main}
+REQUEST_URI=/?ajax
+---
+2015/03/14 15:56:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/03/14 16:52:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/index.php
+---
+2015/03/16 18:46:58 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/03/16 18:47:34 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/03/16 21:15:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/03/25 00:03:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213018&s=6aa706f2452cf01
+---
+2015/03/25 00:04:37 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213077&s=8c7af66c58f58a1
+---
+2015/03/25 00:06:06 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213166&s=bc89a7eae766bb1
+---
+2015/03/25 00:08:18 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213296&s=6ce22ee143e5a25
+---
+2015/03/25 00:11:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213447&s=7cd17982c5db561
+---
+2015/03/25 00:13:52 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427213628&s=6df5fb654e5ffa5
+---
+2015/03/25 00:39:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427215153&s=674ba04e5a35ffd
+---
+2015/03/25 00:44:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427215406&s=8e36432cacfbfe8
+---
+2015/03/25 00:48:26 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427215676&s=ed17503fd6ba0cb
+---
+2015/03/25 00:54:37 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427215981&s=b29465996782769
+---
+2015/03/25 00:59:31 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427216322&s=d94dc494ba41f1d
+---
+2015/03/25 01:05:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427216693&s=f7eda73f377e7b9
+---
+2015/03/25 01:11:34 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427217089&s=898b985a86d4a09
+---
+2015/03/25 01:18:52 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427217512&s=e24a7f925f30646
+---
+2015/03/25 01:26:04 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427217963&s=1bc2ea62417b44e
+---
+2015/03/25 01:34:17 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427218447&s=ae13f9b33fe18b9
+---
+2015/03/25 01:42:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427218959&s=65762dbb78fbc56
+---
+2015/03/25 01:52:04 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427219511&s=82265a1fd63d90c
+---
+2015/03/25 02:02:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427220154&s=f6f77e0e4424c00
+---
+2015/03/25 02:13:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427220754&s=3756f5dc129b383
+---
+2015/03/25 02:23:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427221388&s=328671f8816d6d0
+---
+2015/03/25 02:34:40 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/?info_hash=%00q%C9Bo%84%80%B8%E7%D1h%D2%8B%ABPt%AB%D8%3F%1B&peer_id=-SD354Q-%00%EB%B9%5C5%A3%7B%E4%F8F%EAJ&key=6CE9723159E8222D9F98ECABF67-26425093-1427213017&ip=192.168.31.222&port=0&compact=1&event=started&event_id=1&left=15658882&downloaded=0&uploaded=0&sid=1&sflags=2&slocation=414B1D98&stfstart=4&stnow=1&ststart=0&stcheck=0&stdownload=0&t=1427222061&s=291d61d390e9213
+---
+2015/03/27 12:35:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/03/27 12:35:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/04/26 20:31:22 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/05/05 14:05:45 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---
+2015/06/02 10:27:55 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No such file or directory' in /Users/tsunami/Sites/yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /Users/tsunami/Sites/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /Users/tsunami/Sites/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /Users/tsunami/Sites/yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Item))
+#7 /Users/tsunami/Sites/yii/framework/db/ar/CActiveRecord.php(212): CActiveRecord->getMetaData()
+#8 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): CActiveRecord->__call('bystatus', Array)
+#9 /Users/tsunami/Sites/tucao-hot/src/protected/controllers/SiteController.php(38): Item->bystatus()
+#10 [internal function]: SiteController->actionIndex(0)
+#11 /Users/tsunami/Sites/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(SiteController), Array)
+#12 /Users/tsunami/Sites/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SiteController), Object(ReflectionMethod), Array)
+#13 /Users/tsunami/Sites/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Users/tsunami/Sites/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Users/tsunami/Sites/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(282): CController->run('')
+#17 /Users/tsunami/Sites/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#18 /Users/tsunami/Sites/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/tsunami/Sites/tucao-hot/src/index.php(19): CApplication->run()
+#20 {main}
+REQUEST_URI=/
+---

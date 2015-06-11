@@ -1,0 +1,68 @@
+.header{
+    background:#FFF;
+    margin-top:3em;
+}
+.container{
+    width:1000px;
+    margin:0 auto;
+}
+.content_{
+    width:685px;
+}
+.sider_{
+    position: fixed;
+    top:266px;
+}
+.content_,.sider_{
+    float:left;
+}
+.row{
+    margin-bottom:1.5em;
+}
+.row .header,.up,.down,.row img{
+    cursor:pointer;
+}
+.ding{
+    text-align:center;
+}
+.clear{
+    clear:both;
+}
+.rights{
+    text-align:center;
+    font-size:smaller;
+}
+.row_nopointer{
+    cursor:auto!important;
+}
+.qqicon{
+    height:16px!important;
+    width:16px!important;
+}
+.navbar{
+    width:1000px!important;
+    left:auto!important;
+    background:rgba(255, 255, 255, 0.74)!important;
+}
+/*banner*/
+.logoheader{
+    cursor:pointer;
+}
+.segment{
+    box-shadow:none!important;
+}
+/*          banner picture*/
+.logoheader h2{
+    background: url('/images/banner.gif') no-repeat;
+    background-position-x: 200px;
+    background-position-y: -20px;
+}
+img.logo{
+    width:53px;
+}
+.pagenum a#active{
+    background-color: #e0e0e0;
+    border-color: #e0e0e0;
+    background-image: none;
+    color: rgba(0,0,0,.8);
+}

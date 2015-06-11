@@ -1,0 +1,1 @@
+0 */2 * * * PATH=$PATH:/usr/local/bin && export PATH && cd ~/Sites/tucao-hot/crawl_tucao && scrapy crawl tucaobiz && date>>/tmp/crontab_rec
